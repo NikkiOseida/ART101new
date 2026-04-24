@@ -1,0 +1,27 @@
+p { color:rgb(168, 119, 127); font-size: large; font-weight: bold;}
+
+li{text-align: center;}
+
+html{font-family: serif; background-color: darkgrey;}
+
+p{padding: 20px; background-color: rgb(183, 208, 208);} 
+
+span{background-color: purple ;}
+
+/*select all html tags that have a class highlight_01*/
+
+.highlight_01{background-color: rgb(121, 37, 199);}
+
+/*select all html tags that have a class highlight_02*/
+.highlight_02 {background-color: rgb(208, 71, 50);}
+
+#pink-small {width: 100px;}
+#pink-large{width: 150px;}
+
+p strong{font-weight: normal;}
+
+.test-div{background-color: rgb(120, 190, 148);
+margin: 30px; 
+padding: 40px;}
+
+.my-flex{display: flex;}
